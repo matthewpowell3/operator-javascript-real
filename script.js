@@ -14,6 +14,7 @@ document.write('Division', x / y);
 document.write('Modulus', x % y);
 
 var z = 5;
-//  incerment increase by one
+//  incerment increases by one
 document.write('Increment', ++z);
+// //  decerment decreases by one
 document.write('Decrement', --z);
