@@ -117,34 +117,34 @@ comparsion operator are used to comparfe to values
 
 var x = 10;
 
-document.write(x == 10);
+document.write(x == 8);
 
 document.write('<br>');
 
-document.write(x === 10);
+document.write(x === 8);
 // Is the data type and value are the same like if it was it would be true 10 10
 
 document.write('<br>');
 
-document.write(x != 10);
+document.write(x != 8);
 
 document.write('<br>');
 
-document.write(x !== 10);
+document.write(x !== 8);
 // Check if the data type are equal and if the values and equal
 
 document.write('<br>');
 
-document.write(x > 10);
+document.write(x > 8);
 
 document.write('<br>');
 
-document.write(x < 10);
+document.write(x < 8);
 
 document.write('<br>');
 
-document.write(x >= 10);
+document.write(x >= 8);
 
 document.write('<br>');
 
-document.write(x <= 10);
+document.write(x <= 8);
