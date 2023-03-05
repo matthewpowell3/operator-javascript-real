@@ -49,5 +49,13 @@ a5 %= 10;
 document.write('Value of a5', a5);
 */
 
-var firstName = 'Matthew';
+var firstName = 'Matthew ';
 var lastName = 'Powell';
+
+document.write('Adding Strings ', firstName + lastName);
+// add space
+// document.write(firstName + "" + lastName);
+
+var greeting = 'Welcome ';
+greeting += 'Home';
+document.write('Adding Strings ', greeting);
