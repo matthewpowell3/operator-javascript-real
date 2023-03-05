@@ -114,6 +114,7 @@ document.write('<h1>Results of this is: ' + result + ' Hi There');
 /*
 comparsion operator are used to comparfe to values
  */
+
 /*
 var x = 10;
 
@@ -149,3 +150,26 @@ document.write('<br>');
 
 document.write(x <= 8);
 */
+
+//TYPES
+
+/*
+DATA TYPES
+ */
+
+var x = 67;
+var Name = 'Matthew';
+var doorClose = true;
+// undefined not value defined
+var p;
+var num = null;
+
+document.write(typeof x);
+document.write('<br>');
+document.write(typeof Name);
+document.write('<br>');
+document.write(typeof doorClose);
+document.write('<br>');
+document.write(typeof p);
+document.write('<br>');
+document.write(typeof num);
