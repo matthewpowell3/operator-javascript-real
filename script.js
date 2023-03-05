@@ -96,8 +96,10 @@ document.write('<h1>Results of this is: ' + result + ' Hi There');
 // var x = 50;
 // var y = document.write('Value of: ', x >= 40 ? 'True' : 'False');
 
-var years = 1;
+var years = 9;
 var required = document.write(
   'Result: ',
-  years >= 5 ? ' You have expereinced' : 'You  dont have expereinced'
+  years >= 5
+    ? ' You have expereinced ' + 'Working for: ' + years + ' years'
+    : 'No expereinced ' + 'Working for:' + years + ' years'
 );
