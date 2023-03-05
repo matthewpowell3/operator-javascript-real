@@ -157,11 +157,13 @@ document.write(x <= 8);
 DATA TYPES
  */
 
+/*
 var x = 67;
 var Name = 'Matthew';
 var doorClose = true;
 // undefined not value defined
 var p;
+//object null is object
 var num = null;
 
 document.write(typeof x);
@@ -173,3 +175,10 @@ document.write('<br>');
 document.write(typeof p);
 document.write('<br>');
 document.write(typeof num);
+*/
+
+//TYPES
+
+/*
+DATA TYPES
+ */
