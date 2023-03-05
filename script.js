@@ -96,10 +96,17 @@ document.write('<h1>Results of this is: ' + result + ' Hi There');
 // var x = 50;
 // var y = document.write('Value of: ', x >= 40 ? 'True' : 'False');
 
-var years = 9;
-var required = document.write(
-  'Result: ',
-  years >= 5
-    ? ' You have expereinced ' + 'Working for: ' + years + ' years'
-    : 'No expereinced ' + 'Working for:' + years + ' years'
-);
+// var years = 9;
+// var required = document.write(
+//   'Result: ',
+//   years >= 5
+//     ? ' You have expereinced ' + 'Working for: ' + years + ' years'
+//     : 'No expereinced ' + 'Working for:' + years + ' years'
+// );
+
+//LOGICAL OPERATOR
+
+/* conditional operator is either true or false like a if statement the difference  
+    between if else and conditional  
+   operator is that is requires less time 
+*/
