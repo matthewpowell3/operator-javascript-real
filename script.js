@@ -179,6 +179,18 @@ document.write(typeof num);
 
 //BITWISE OPERATOR
 
-/*
-DATA TYPES
- */
+/*var x = 5;
+var y = 1;
+
+document.write(x & y);
+document.write('<br>');
+document.write(x | y);
+document.write('<br>');
+document.write(~x);
+document.write('<br>');
+document.write(x ^ y);*/
+
+//0101
+//0001
+
+//if one of the values is zero it will return zero
