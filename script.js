@@ -114,7 +114,7 @@ document.write('<h1>Results of this is: ' + result + ' Hi There');
 /*
 comparsion operator are used to comparfe to values
  */
-
+/*
 var x = 10;
 
 document.write(x == 8);
@@ -148,3 +148,4 @@ document.write(x >= 8);
 document.write('<br>');
 
 document.write(x <= 8);
+*/
