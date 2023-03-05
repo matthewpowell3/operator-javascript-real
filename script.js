@@ -122,6 +122,7 @@ document.write(x == 10);
 document.write('<br>');
 
 document.write(x === 10);
+// Is the data type and value are the same like if it was it would be true 10 10
 
 document.write('<br>');
 
