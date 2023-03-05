@@ -92,3 +92,12 @@ document.write('<h1>Results of this is: ' + result + ' Hi There');
     between if else and conditional  
    operator is that is requires less time 
 */
+
+// var x = 50;
+// var y = document.write('Value of: ', x >= 40 ? 'True' : 'False');
+
+var years = 1;
+var required = document.write(
+  'Result: ',
+  years >= 5 ? ' You have expereinced' : 'You  dont have expereinced'
+);
