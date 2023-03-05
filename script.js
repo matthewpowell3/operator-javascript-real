@@ -106,7 +106,43 @@ document.write('<h1>Results of this is: ' + result + ' Hi There');
 
 //LOGICAL OPERATOR
 
-/* conditional operator is either true or false like a if statement the difference  
-    between if else and conditional  
-   operator is that is requires less time 
-*/
+/*
+ */
+
+//COMPARSION OPERATOR
+
+/*
+comparsion operator are used to comparfe to values
+ */
+
+var x = 10;
+
+document.write(x == 10);
+
+document.write('<br>');
+
+document.write(x === 10);
+
+document.write('<br>');
+
+document.write(x != 10);
+
+document.write('<br>');
+
+document.write(x !== 10);
+
+document.write('<br>');
+
+document.write(x > 10);
+
+document.write('<br>');
+
+document.write(x < 10);
+
+document.write('<br>');
+
+document.write(x >= 10);
+
+document.write('<br>');
+
+document.write(x <= 10);
