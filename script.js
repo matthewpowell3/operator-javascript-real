@@ -131,6 +131,7 @@ document.write(x != 10);
 document.write('<br>');
 
 document.write(x !== 10);
+// Check if the data type are equal and if the values and equal
 
 document.write('<br>');
 
