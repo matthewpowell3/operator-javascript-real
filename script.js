@@ -1,3 +1,5 @@
+//OPERATOR
+
 /*var x = 8;
 var y = 3;
 
@@ -19,6 +21,9 @@ document.write('Increment', ++z);
  Decerment decreases by one
 document.write('Decrement', --z);
 */
+
+//STRING OPERATORS
+
 /*
 var a = 13;
 var b = a;
@@ -61,3 +66,29 @@ greeting += 'Home ';
 document.write('Adding Strings: ', greeting);
 */
 
+// SOME OPERATE HAVE LEFT TO RIGHT ASSOCIATIVITY
+/*
+var x = 12;
+var y = 6;
+var c = 7;
+var d = 8;
+//add let to right first adds
+ //x + y then adds c the the amount
+{
+  because the first thing to add is a string "hello" it will assume that ever 
+  going to the right is string because it's adding form left to right
+  12 6 7 are assumed to be string
+
+  //var result = 'hello' + x + y + c;
+}
+
+//var result = +x + y + 'hello' + c + d;
+document.write('<h1>Results of this is: ' + result + ' Hi There');
+*/
+
+//CONDITIONAL OPERATOR
+
+/* conditional operator is either true or false like a if statement the difference  
+    between if else and conditional  
+   operator is that is requires less time 
+*/
