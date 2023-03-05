@@ -177,7 +177,7 @@ document.write('<br>');
 document.write(typeof num);
 */
 
-//TYPES
+//BITWISE OPERATOR
 
 /*
 DATA TYPES
